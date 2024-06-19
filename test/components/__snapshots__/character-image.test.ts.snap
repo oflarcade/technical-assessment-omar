@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`RickAndMortyCharacterImage.vue > matches snapshot 1`] = `"<img data-v-594c78aa="" data-nuxt-img="" class="image" src="https://rickandmortyapi.com/api/character/avatar/1.jpeg">"`;

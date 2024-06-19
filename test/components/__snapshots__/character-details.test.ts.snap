@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`RickAndMortyCharacterDetails.vue > matches snapshot 1`] = `
+"<div data-v-6f052df1="" class="border-4 border-pink-600 flex flex-col rounded-lg bg-slate-800">
+  <header data-v-6f052df1="" class="p-2 flex items-center bg-pink-950 border-b border-b-4 border-pink-600">
+    <h2 data-v-6f052df1="" class="font-bold text-lg capitalize text-pink-700">Rick Sanchez</h2>
+  </header>
+  <div data-v-6f052df1="" class="p-4">
+    <p data-v-6f052df1="" class="text-sm">Name: Rick Sanchez</p>
+    <p data-v-6f052df1="" class="text-sm">Species: Human</p>
+    <p data-v-6f052df1="" class="text-sm">Status: Alive</p>
+    <p data-v-6f052df1="" class="text-sm">Type: </p>
+    <p data-v-6f052df1="" class="text-sm">Gender: Male</p>
+    <p data-v-6f052df1="" class="text-sm">Origin: Earth</p>
+    <p data-v-6f052df1="" class="text-sm">Location: Earth</p>
+    <p data-v-6f052df1="" class="text-sm"> Created: November 4, 2017</p>
+  </div>
+  <div data-v-6f052df1="" class="h-[400px]"><img data-v-594c78aa="" data-v-6f052df1="" data-nuxt-img="" class="image w-full h-full object-cover rounded-lg" src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"></div>
+</div>"
+`;

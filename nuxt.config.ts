@@ -84,6 +84,9 @@ export default defineNuxtConfig({
       pokemon: {
         url: 'https://pokeapi.co/api/v2',
       },
+      character: {
+        url: 'https://rickandmortyapi.com/api/character'
+      }
     },
   },
 })

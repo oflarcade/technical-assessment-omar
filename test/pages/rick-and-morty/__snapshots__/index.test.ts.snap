@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Rick and morty IndexPage.vue > matches snapshot 1`] = `
+"<div>
+  <routerlink to="/pokemon"></routerlink>
+  <routerlink to="/rick-and-morty"></routerlink>
+</div>"
+`;
