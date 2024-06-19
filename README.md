@@ -11,3 +11,10 @@ I didn't manage to connect to the api in the same way as for pokemon due to me n
 
 I also wasn't able to finish all the test as well :/ 
 
+### in order to run the app: 
+
+pnpm install && pnpm dev 
+
+#### in order to run the test with vitest: 
+
+pnpm test 
